@@ -1,4 +1,3 @@
 # myproject
 MyRepo
-## project notes
 
